@@ -22,9 +22,9 @@ This website will give you a better insight on Washington States!
 - The largest Boeing building is located in Everett, Washington
 - Boeing factory in Everett, Washington is the largest building by volume in the world 
 
-To learn more facts about Washington State [click here](https://discord.com/channels/@me/836398451532759090/894050006238122004). 
+To learn more facts about Washington State [click here](https://www.50states.com/facts/washington.htm). 
 
-[Next Page](https://www.50states.com/facts/washington.htm) 
+[Next Page](https://malazadi.github.io/Washington-State/cities) 
  
 
 
