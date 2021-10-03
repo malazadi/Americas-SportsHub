@@ -6,7 +6,7 @@ This website will give you a better insight on Washington States!
 
 ---
 
-- [**Intresting Facts**](https://github.com/malazadi/Washington-State/edit/main/README.md)  🤔
+- [**Intresting Facts**]()  🤔
 - [**Dfferent Cities**]()🏙️
 - [**Tourist Attractions**]() 📸
 
