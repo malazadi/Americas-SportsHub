@@ -8,7 +8,7 @@ This website will give you a better insight on Washington States!
 
 - [**Intresting Facts**](https://malazadi.github.io/Washington-State/)  🤔
 - [**Dfferent Cities**](https://malazadi.github.io/Washington-State/cities)🏙️
-- [**Tourist Attractions**]() 📸
+- [**Tourist Attractions**](https://malazadi.github.io/Washington-State/tourist-attractions) 📸
 
 ---
 
