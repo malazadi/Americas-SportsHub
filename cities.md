@@ -36,7 +36,7 @@ Spokane, Washington is a city that is located in Eastern Wsahington.
 
 To learn about more cities in Washington [click here](https://ballotpedia.org/Cities_in_Washington).
 
-[Next Page]() 
+[Next Page](https://malazadi.github.io/Washington-State/tourist-attractions) 
 
 
 
