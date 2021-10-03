@@ -24,7 +24,7 @@ This website will give you a better insight on Washington States!
 
 To learn more facts about Washington State [click here](https://discord.com/channels/@me/836398451532759090/894050006238122004). 
 
-[Next Page](https://malazadi.github.io/Washington-State/cities) 
+[Next Page](https://www.50states.com/facts/washington.htm) 
 
 
 
