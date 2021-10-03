@@ -1,6 +1,6 @@
 # Washington State
 
-!alt[alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/255px-Flag_of_Washington.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/255px-Flag_of_Washington.svg.png)
 
 This website will give you a better insight on Washington States!
 
