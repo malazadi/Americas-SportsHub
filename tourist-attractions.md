@@ -29,5 +29,4 @@
 
 If you want more suggestions [click here](https://www.touropia.com/best-places-to-visit-in-washington-state/).
 
-[Next Page]() 
-
+[Previous Page](https://malazadi.github.io/Washington-State/cities)
